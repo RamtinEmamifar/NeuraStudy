@@ -26,7 +26,7 @@ NeuraStudy helps you understand topics, generate quick quizzes, and summarize te
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/NeuraStudy.git
+   git clone https://github.com/RamtinEmamifar/NeuraStudy.git
    cd NeuraStudy
    ```
 
